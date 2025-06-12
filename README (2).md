@@ -32,12 +32,6 @@ Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga l
 
 ## Conclusion
 
-Jelaskan konklusi dari proyek yang dikerjakan.
-Ditemukan beberapa faktor yang mempengaruhi karyawan keluar, diantaranya adalah, kebanyakan memilih untuk keluar dari perusahaan karena 
+Ditemukan beberapa faktor yang mempengaruhi karyawan keluar, diantaranya adalah, dari sebagian besar karyawan yang keluar dari perusahaan ditemukan faktor terbesar adalah dikarenakan
 
-### Rekomendasi Action Items (Optional)
 
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-
-- action item 1
-- action item 2
