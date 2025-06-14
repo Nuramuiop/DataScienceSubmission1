@@ -32,6 +32,6 @@ Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga l
 
 ## Conclusion
 
-Ditemukan beberapa faktor yang mempengaruhi karyawan keluar, diantaranya adalah, dari sebagian besar karyawan yang keluar dari perusahaan ditemukan faktor terbesar adalah dikarenakan
+Ditemukan beberapa faktor yang mempengaruhi karyawan keluar, diantaranya adalah Attrition, Department, DistanceFromHome,EducationField, JobRole, MaritalStatus, OverTime, PercentSalaryHike, PerformanceRating, dari sebagian besar karyawan yang keluar dari perusahaan ditemukan faktor terbesar adalah dikarenakan DistanceFromHome dimana
 
 
