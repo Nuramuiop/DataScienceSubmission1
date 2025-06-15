@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
+# Proyek Pertama: Menyelesaikan Permasalahan HR
 
 ## Business Understanding
 
@@ -36,6 +36,6 @@ Berikut Beberapa hal yang di tampilkan di dalam dashboard
 
 ## Conclusion
 
-Ditemukan beberapa faktor yang mempengaruhi karyawan keluar, diantaranya adalah Attrition, Department, DistanceFromHome,EducationField, JobRole, MaritalStatus, OverTime, PercentSalaryHike, PerformanceRating, dari sebagian besar karyawan yang keluar dari perusahaan ditemukan faktor terbesar adalah dikarenakan DistanceFromHome dimana
+Ditemukan beberapa faktor yang mempengaruhi karyawan keluar, diantaranya adalah Attrition, Department, DistanceFromHome,EducationField, JobRole, MaritalStatus, OverTime, PercentSalaryHike, PerformanceRating, dari sebagian besar karyawan yang keluar dari perusahaan ditemukan faktor terbesar adalah dikarenakan OverTime dimana mereka yang bekerja lebih lama cenderung keluar dari perusahaan
 
 
