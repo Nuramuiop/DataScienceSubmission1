@@ -24,11 +24,15 @@ Untuk mengakses file ipynb perlu diperhatikan
 2. Sebelum menjalankan file ipnyb anda harus sudah memiliki seluruh library yang digunakan
 3. Jangan lupa untuk menjalankan semua isi dari file ipnyb
 
-Untuk mengakses Business Dashboard anda bisa melalui tautan berikut: Business Dashboard
+Untuk mengakses Business Dashboard anda bisa melalui tautan berikut: [Business Dashboard](https://public.tableau.com/views/dashboard1_17497949070040/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Business Dashboard
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+Business Dashboard dapat di lihat menggunakan [link](https://public.tableau.com/views/dashboard1_17497949070040/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ini.
+Berikut Beberapa hal yang di tampilkan di dalam dashboard
+- Jumlah karyawan
+- Visualisasi dari beberapa faktor yang mempengaruhi orang keluar (Attrition)
+- Pada visualisasi ditampilkan perbandingan antara orang yang tidak keluar dan keluar dalam satu kategori dalam satu fitur
 
 ## Conclusion
 
