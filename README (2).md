@@ -7,8 +7,9 @@ PT.Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdi
 
 ### Permasalahan Bisnis
 Untuk membantu perusahaan mengatasi masalah ini akan dilakukan:
-1. Mengidentifikasi faktor-faktor yang membuat karyawan memutuskan untuk keluar
-2. Berdasarkan faktor yang telah diketahui, diifentifikasi kembali faktor mana yang membuat kebanyakan karyawan keluar
+1. Tingginya tingkat keluar atau attrition pegawai melebihi 10%
+2. Mengidentifikasi faktor-faktor yang membuat karyawan memutuskan untuk keluar
+3. Berdasarkan faktor yang telah diketahui, diifentifikasi kembali faktor mana yang membuat kebanyakan karyawan keluar
 
 ### Cakupan Proyek
 1. Memulai dari memahami data
@@ -16,9 +17,17 @@ Untuk membantu perusahaan mengatasi masalah ini akan dilakukan:
 3. Menyediakan dashboard untuk membantuk departemen HR mengambil solusi atau inisiatif
 
 ### Persiapan
-Data bersumber dari
+Data bersumber dari [dicoding](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee), dataset ini berisi demografi, kondisi pernikahan, pendapatan dan kenaikan pendapata, serta yang lainnya
 
 Setup environment:
+Sebelum mengkases file ipnyb diperlukan setup einvornment untuk python
+
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install -r requirements.txt
+```
+
 Untuk mengakses file ipynb perlu diperhatikan
 1. Memiliki jaringan internet
 2. Sebelum menjalankan file ipnyb anda harus sudah memiliki seluruh library yang digunakan
@@ -36,6 +45,6 @@ Berikut Beberapa hal yang di tampilkan di dalam dashboard
 
 ## Conclusion
 
-Ditemukan beberapa faktor yang mempengaruhi karyawan keluar, diantaranya adalah Attrition, Department, DistanceFromHome,EducationField, JobRole, MaritalStatus, OverTime, PercentSalaryHike, PerformanceRating, dari sebagian besar karyawan yang keluar dari perusahaan ditemukan faktor terbesar adalah dikarenakan OverTime dimana mereka yang bekerja lebih lama cenderung keluar dari perusahaan
+Ditemukan beberapa faktor yang mempengaruhi karyawan keluar, diantaranya adalah Department, DistanceFromHome,EducationField, JobRole, MaritalStatus, OverTime, PercentSalaryHike, PerformanceRating, dari sebagian besar karyawan yang keluar dari perusahaan ditemukan faktor terbesar adalah dikarenakan OverTime dimana mereka yang bekerja lebih lama cenderung keluar dari perusahaan
 
 
